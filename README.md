@@ -7,7 +7,7 @@
 ---
 
 ## 🌟 Profile Summary
-💡 Cloud & Infra Engineer with **2.6+ years** of experience in Windows Server administration, VMware virtualization, and hybrid cloud (AWS & Azure).  
+💡 Cloud & Infra Engineer with **2.10+ years** of experience in Windows Server administration, VMware virtualization, and hybrid cloud (AWS & Azure).  
 🎯 Certified in **AWS Cloud Practitioner** & **Microsoft AZ-800**.  
 🔍 Seeking roles in **Infra Ops, Cloud Support, Cloud Engineering, or Platform Engineering** within product-based organizations.  
 
