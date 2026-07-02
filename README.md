@@ -67,8 +67,8 @@
 
 ## 🎨 Fun & Flair
 ✨ *“Building scalable infra by day, viral reels by night.”*  
-📸 Instagram: [@yourhandle](https://instagram.com/yourhandle)  
-🎬 Anime-inspired AR project: *Hand sign recognition with real-time effects*  
+📸 Instagram: [@yourhandle](https://instagram.com/Vickraman24)  
+  
 
 ---
 
