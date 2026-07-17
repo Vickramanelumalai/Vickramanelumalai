@@ -67,7 +67,7 @@
 
 ## 🎨 Fun & Flair
 ✨ *“Building scalable infra by day, viral reels by night.”*  
-📸 Instagram: [@yourhandle](https://instagram.com/Vickraman24)  
+📸 Instagram: [@Vickraman.24](https://instagram.com/Vickraman24)  
   
 
 ---
